@@ -3,6 +3,18 @@ Logo image pack
 
 ## Samples
 
+### Large
+
+![AlphaSheets Logo](asLarge.jpg)
+
+### Large transparent
+
+![AlphaSheets Logo](asLarge_new.png)
+
+### Square
+
+![AlphaSheets Logo](asLarge_a.jpg)
+
 ## License
 
 All the content of this repository is Copyright (C) 2017 - AlphaSheets.
