@@ -3,6 +3,10 @@ Logo image pack
 
 ## Samples
 
+### New (SVG)
+
+![AlphaSheets Logo](new-logo.svg)
+
 ### Large
 
 ![AlphaSheets Logo](asLarge.jpg)
