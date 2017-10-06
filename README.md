@@ -3,21 +3,17 @@ Logo image pack
 
 ## Samples
 
-### New (SVG)
+### Square (SVG)
 
-![AlphaSheets Logo](new-logo.svg)
+![AlphaSheets Logo](Square.svg)
 
-### Large
+### Horizontal
 
-![AlphaSheets Logo](asLarge.jpg)
+![AlphaSheets Logo](Horizontal.jpg)
 
-### Large transparent
+### Vertical
 
-![AlphaSheets Logo](asLarge_new.png)
-
-### Square
-
-![AlphaSheets Logo](asLarge_a.jpg)
+![AlphaSheets Logo](Vertical.jpg)
 
 ## License
 
