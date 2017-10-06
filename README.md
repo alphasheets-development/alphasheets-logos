@@ -5,15 +5,15 @@ Logo image pack
 
 ### Square (SVG)
 
-![AlphaSheets Logo](Square.svg)
+![AlphaSheets Logo](square-logo.svg)
 
 ### Horizontal
 
-![AlphaSheets Logo](Horizontal.jpg)
+![AlphaSheets Logo](horizontal-logo.svg)
 
 ### Vertical
 
-![AlphaSheets Logo](Vertical.jpg)
+![AlphaSheets Logo](vertical-logo.svg)
 
 ## License
 
